@@ -4,7 +4,8 @@ resources
 [browsers link from dev roadmap](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)  
 [Using the W3C DOM Level 1 Core](https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Using_the_W3C_DOM_Level_1_Core)  
 [DOM Level 1 Core specification from W3C](https://www.w3.org/TR/REC-DOM-Level-1/level-one-core.html)
-[Whitespace in the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Whitespace)
+[DOM and Whitespace](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Whitespace)
+[DOM Level 1 Methods](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Traversing_an_HTML_table_with_JavaScript_and_DOM_Interfaces)
 
 Definitions (both MDN Web Docs)
 * Object model for changing content tree of documents.
