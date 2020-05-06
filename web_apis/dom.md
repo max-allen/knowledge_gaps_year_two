@@ -2,11 +2,18 @@
 resources  
 [bholts notes from FEM course](https://btholt.github.io/intro-to-web-dev-v2/dom)  
 [browsers link from dev roadmap](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)  
-[Using the W3C DOM Level 1 Core](https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Using_the_W3C_DOM_Level_1_Core)
-[DOM Level 1 Core specification from W3C](https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Using_the_W3C_DOM_Level_1_Core)
+[Using the W3C DOM Level 1 Core](https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Using_the_W3C_DOM_Level_1_Core)  
+[DOM Level 1 Core specification from W3C](https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Using_the_W3C_DOM_Level_1_Core)  
 [Whitespace in the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Whitespace)
 
-Object model for changing content tree of documents.  
+Definitions (both MDN Web Docs)
+* Object model for changing content tree of documents.
+* Programming interface for HTML and XML documents.
+  It represents the page so programs can change the document structure,
+  style, and content.
+* Object-oriented representation of the web page, which can be modified
+  with a scripting language like JavaScript.
+
 Any HTML / XML document is a tree structure.  
 Representing the structure of a document in memory.  
 Each branch ends in a node and each node contains objects.  
